@@ -93,8 +93,8 @@ The following outputs are defined in the `outputs.tf` file:
 To deploy the infrastructure:
 
 1. **Clone the Repository**:
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
+   git clone https://github.com/SoulCoder65/tf-alb-ec2-project.git
+   cd tf-alb-ec2-project
 
 2. **Initialize Terraform**:
 
